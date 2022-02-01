@@ -4,7 +4,7 @@ from plyer import notification
 
 
 
-#
+#bruno
 import ctypes  # An included library with Python install.
 
 #ip_list=["8.8.8.8","8.8.4.4"]
